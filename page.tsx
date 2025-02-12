@@ -198,10 +198,10 @@ export default function Home() {
                   className="space-y-6"
                 >
                   <p className="text-[18px] text-gray-400/90 leading-relaxed font-light">
-                    founded in 2025, EV Power utilizes cutting-edge blockchain technology to tackle global energy challenges. by capturing energy generated through vehicle braking, we enable a cleaner, more efficient future for cryptocurrency mining.
+                    Founded in 2025, EV Power utilizes cutting-edge blockchain technology to tackle global energy challenges. by capturing energy generated through vehicle braking, we enable a cleaner, more efficient future for cryptocurrency mining.
                   </p>
                   <p className="text-[18px] text-gray-400/90 leading-relaxed font-light">
-                    our goal is to create a decentralized ecosystem where electric vehicles play a pivotal role in powering digital economies with clean, renewable energy.
+                    Our goal is to create a decentralized ecosystem where electric vehicles play a pivotal role in powering digital economies with clean, renewable energy.
                   </p>
                 </motion.div>
               </div>
